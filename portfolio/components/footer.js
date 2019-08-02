@@ -1,0 +1,1 @@
+eport default footer.js
