@@ -1,1 +1,14 @@
-eport default footer.js
+import React from 'react';
+
+
+function Footer () {
+  return (
+    <div className="App">
+      <header className="App-header">
+       
+      </header>
+    </div>
+  );
+}
+
+export default Footer;
