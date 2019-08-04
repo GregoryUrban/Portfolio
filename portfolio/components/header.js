@@ -3,9 +3,9 @@ import React from 'react';
 
 function Header () {
   return (
-    <div className="App">
-      <header className="App-header">
-       
+    <div className="Header">
+      <header className="Header-header">
+       Greg's Portfolio
       </header>
     </div>
   );

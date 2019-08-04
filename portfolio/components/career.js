@@ -3,8 +3,8 @@ import React from 'react';
 
 function Careers () {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="Careers">
+      <header className="Careers-header">
        
       </header>
     </div>
