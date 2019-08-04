@@ -3,8 +3,8 @@ import React from 'react';
 
 function About () {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="About">
+      <header className="About-header">
        
       </header>
     </div>

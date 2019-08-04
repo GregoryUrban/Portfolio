@@ -3,8 +3,8 @@ import React from 'react';
 
 function Footer () {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className="Footer">
+      <header className="Footer-header">
        
       </header>
     </div>
