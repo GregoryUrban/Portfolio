@@ -1,6 +1,6 @@
 # Portfolio
 A fresh start to a portfolio
 
-[] Planning Phase
+[x] Planning Phase
 [] Coding Phase
 
