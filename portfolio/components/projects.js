@@ -13,11 +13,7 @@ function Projects () {
        <p>Better Friend Reminder</p>
        <h1>Back End</h1>
        <p>Use My Tools</p>
-       <h1></h1>
-       <h1></h1>
-       <h1></h1>
-       <h1></h1>
-       <h1></h1>
+ 
       </header>
     </div>
   );
