@@ -9,6 +9,9 @@ function Footer () {
          <address>
            Brattleboro, VT 05301
          </address>
+         <phonenumber>
+           802-246-7026
+         </phonenumber>
        </h1>
       </header>
     </div>

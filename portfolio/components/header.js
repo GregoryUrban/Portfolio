@@ -5,7 +5,13 @@ function Header () {
   return (
     <div className="Header">
       <header className="Header-header">
-       Greg's Portfolio
+      <h1>Greg's Portfolio</h1> 
+      <a>Career</a>      
+      <a>Skills</a>      
+      <a>Proects</a>      
+      <a>About</a>      
+      <a>Contact</a>      
+
       </header>
     </div>
   );
