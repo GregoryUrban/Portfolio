@@ -6,6 +6,7 @@ function Contact () {
     <div className="Contact">
       <header className="Contact-header">
         <h1>How to reach Greg Urban</h1>
+        <title>Greg Urban | Full Stack Developer | Democratic Capitalist </title>
       <email>
         GregTheUrban@gmail.com
       </email>

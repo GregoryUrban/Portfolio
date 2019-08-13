@@ -5,7 +5,7 @@ function Careers () {
   return (
     <div className="Careers">
       <header className="Careers-header">
-      <h1>Greg's Career</h1>
+      <title>Greg's Career | Timeline & Specialty</title>
 
 <h1>Design Done Right</h1>
 <p>SEO Specialist</p>
