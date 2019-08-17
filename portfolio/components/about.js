@@ -3,6 +3,7 @@ import React from 'react';
 
 function About () {
   return (
+    <title> SEO Specialist | Full Stack Web Development </title>
     <div className="About">
       <header className="About-header">
        <h1>My Technical Background</h1>
